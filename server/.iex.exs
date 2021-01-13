@@ -1,0 +1,1 @@
+alias Game.{GameServer, GameSquare}
